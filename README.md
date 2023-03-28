@@ -19,7 +19,7 @@ No meu exemplo acima, temos uma tag de imagem. No entanto, há um problema. Embo
 <img src="http://bit.ly/charizardgif" />
 Neste exemplo, temos uma tag de imagem. O srcatributo é o nome do argumento, neste caso é a fonte ou localização da imagem que queremos mostrar. Em seguida, informamos entre aspas a localização de nossa imagem, http://bit.ly/charizardgif.
 
-##O que é CSS?
+#O que é CSS?
 CSS ou C ascading S tyle Sheets é uma linguagem de folha de estilo que permite adicionar estilo ao seu HTML.
 
 Coisas como adicionar um plano de fundo, alterar sua fonte e definir os tamanhos dos elementos HTML são coisas que podem ser feitas em CSS.
@@ -42,7 +42,7 @@ Neste caso, background-coloré uma propriedade que queremos alterar e #000é o v
 
 CSS também nos permite usar alguns nomes de cores como preto ou vermelho, mas usar hex nos permite ter mais flexibilidade e personalização.
 
-O que é uma aula?
+#O que é uma aula?
 Uma classe é uma forma de identificar elementos HTML que são semelhantes, devem compartilhar um estilo comum e/ou sua finalidade.
 
 Para definir a classe de um elemento HTML, especifique-os no classatributo da seguinte forma:
